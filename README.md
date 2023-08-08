@@ -12,4 +12,4 @@ The developed weather predictor achieved an R-squared value of approximately 0.7
 
 ## Project Code
 
-![Alt Text][LR_GD.ipynb]
+[View the Notebook](/LR_GD.md)
